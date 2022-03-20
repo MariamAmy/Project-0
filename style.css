@@ -1,0 +1,45 @@
+.container{
+    text-align:center;
+    margin-top:250px;
+}
+.googleimg{
+    height: 130px;
+    width: 350px;
+}
+.search{
+    width:640px;
+    margin: 0 auto;
+    border:1px solid gray;
+    border-radius: 25px;
+}
+.searchbar{
+    width: 550px;
+    height: 10px;
+    padding-top:20px; 
+    font-size:18px;
+    border:none;
+    padding-top: 15px;
+    margin-bottom:10px;
+}
+.searchicon{
+    position: relative;
+    height: 15px;
+    margin-top:10px;
+    width: 15px;
+    margin-left:-40px; 
+}
+.btncontainer{
+    margin-top:2%;
+}
+
+.searchbtn{
+    height: 40px;
+    border:none;
+    color: rgb(41, 46, 46);
+    background: #f2f2f2;
+}
+
+.searchbtn:hover{
+    color:rgb(10, 10, 10);
+    border:1px solid lightgray;
+}
